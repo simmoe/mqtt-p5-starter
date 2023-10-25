@@ -1,7 +1,7 @@
 //client er den variabel der bruges til at oprette forbindelse til mqtt serveren
 let client 
 //connectionDiv peger på et DIV element i HTML siden 
-let connectionDiv
+let connectionDiv = 20
 
 //setup er den funktion der kører, før selve web-appen starter 
 function setup() {
